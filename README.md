@@ -1,5 +1,7 @@
 # Codepen Clone Web App 
-
+Codepen Clone is a online website editor in which you can write HTML, CSS and Javascript Codes respectively. Its like online editor on which you can preview the output at run time by implementing changes. Try out on your own ;)
+<br>
+It is responsive on any screen devices so you can use it on any device you wish :)
 <hr>
 
 ## Working App can be found here
