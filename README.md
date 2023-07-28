@@ -20,6 +20,38 @@ https://codepen-clone-react-web.vercel.app/
 <hr>
 
 ## Run Locally
+Clone the repository:
+
+```bash
+  git clone https://github.com/Chirag047/Airbnb-Clone.git
+```
+Go to the project directory:
+
+```bash
+  cd Airbnb-Clone
+```
+Install the dependencies for the project:
+
+```bash
+  npm install --legacy-peer-deps
+```
+Create build folder:
+
+```bash
+  npm run build
+```
+Start the frontend development server:
+
+```bash
+  cd public/npm run start
+```
+Access the application at :
+
+```bash
+  http://localhost:3000
+```
+
+## Run Locally
 Clone the project
 
 ```bash
